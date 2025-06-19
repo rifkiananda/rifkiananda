@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 😁 I'm Junior Web Development
 
 ![hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczk0Z2U0MmFvNmpoM21nbGVuZWhmYm8wNGNnMHM3dWUzY3QzM3UxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S2IfEQqgWc0AH4r6Al/giphy.gif)
+
+## Skills
+<https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white>
