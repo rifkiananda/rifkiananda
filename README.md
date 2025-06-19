@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=php,html,css,javascript,mysql,vscode,windows&theme=light)](https://skillicons.dev)
 
 ## Contact With Me
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rifkiann) ![https://www.linkedin.com/in/rifkianandaarditya](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rifkiann) [![linkedin]https://www.linkedin.com/in/rifkianandaarditya](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
